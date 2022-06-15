@@ -13,11 +13,12 @@ https://youtu.be/5qOnzF7RsNA
 <b>author:</b> Mariya Sha
 <br>
 <b> dependencies: </b>
+<br>
 - Tkinter
 - Pillow (PIL)
 - NumPy
 - Pyglet (options: used for Windows custom fonts)
-<br>
+
 <b>database webscraped from:</b>
 <br>
 https://cosylab.iiitd.edu.in/recipedb/
