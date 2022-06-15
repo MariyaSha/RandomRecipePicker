@@ -13,7 +13,7 @@ https://youtu.be/5qOnzF7RsNA
 <b>author:</b> Mariya Sha
 <br>
 <b> dependencies: </b>
-<br>
+
 - Tkinter
 - Pillow (PIL)
 - NumPy
