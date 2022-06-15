@@ -17,3 +17,10 @@ https://youtu.be/5qOnzF7RsNA
 - Pillow (PIL)
 - NumPy
 - Pyglet (options: used for Windows custom fonts)
+<br>
+<b>database webscraped from:</b>
+<br>
+https://cosylab.iiitd.edu.in/recipedb/
+<br>
+<br>
+![app](https://user-images.githubusercontent.com/32107652/173865003-09df9a23-6c5e-44f5-9a9e-9b95b93a237c.png)
