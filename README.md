@@ -18,7 +18,7 @@ https://youtu.be/5qOnzF7RsNA
 - Tkinter
 - Pillow (PIL)
 - NumPy
-- Pyglet (options: used for Windows custom fonts)
+- Pyglet (optional: used for Windows custom fonts)
 
 <b>database webscraped from:</b>
 <br>
