@@ -24,6 +24,12 @@ https://youtu.be/5qOnzF7RsNA
 <br>
 https://cosylab.iiitd.edu.in/recipedb/
 <br>
+using MechanicalSoup and SQLite
+<br>
+find out how you can webscrape your own database with those libraries
+<br>
+by following this tutorial of mine: https://youtu.be/MkGQmZoMuRM
+<br>
 <br>
 <h2>Project Files</h2>
 <b>starter_files</b>
