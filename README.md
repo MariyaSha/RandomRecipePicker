@@ -12,6 +12,7 @@ https://youtu.be/5qOnzF7RsNA
 <br>
 <b>author:</b> Mariya Sha
 <br>
+<br>
 <b> dependencies: </b>
 
 - Tkinter
