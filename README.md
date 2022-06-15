@@ -6,7 +6,11 @@ display random recipe using a GUI Tkinter application, SQLite3 and RecipeDB
 <br>
 This repository was created for my Tkinter GUI YouTube tutorial:
 <br>
+https://youtu.be/5qOnzF7RsNA
+<br>
+<br>
 <b>author:</b> Mariya Sha
+<br>
 <b> dependencies: </b>
 <br>
 - Tkinter
