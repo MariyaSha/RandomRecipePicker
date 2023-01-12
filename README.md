@@ -35,8 +35,7 @@ by following this tutorial of mine: https://youtu.be/MkGQmZoMuRM
 the following directories require a detailed overview:
 
 <h3>starter_files</h3>
-<br>
-<br>
+
 this directory contains the starter files required to follow my YouTube tutorial.
 
 - 2 logos inside the <b>assets</b> folder
@@ -46,6 +45,7 @@ this directory contains the starter files required to follow my YouTube tutorial
 - 1 .py file inside the root folder containing the most basic commands to run a Tkinter window.
 
 <h3>complete_project_WINDOWS</h3>
+
 this directory contains the complete application, created by following the YouTube tutorial.
 <br>
 as this app uses custom fonts, it's suitable for Windows users only.
@@ -62,8 +62,7 @@ in addition to all the files specified in starter_files, this directory contains
 everything else is a 100% match to the code presented in the tutorial (+ helpful comments)
 
 <h3>relationalDB_complete_project_WINDOWS</h3>
-<br>
-<br>
+
 this directory contains the updated application (January, 2023), designed with a relational database rather than the database that was shown in the YouTube tutorial.
 <br>
 recipes.db now contains 2 tables:
@@ -75,7 +74,6 @@ as a result, 2 functions were slightly modified:
 
 - fetch_db()
 - pre_process(recipe_name, table_records)
-<br>
-<br>
+
 ![app](https://user-images.githubusercontent.com/32107652/173865003-09df9a23-6c5e-44f5-9a9e-9b95b93a237c.png)
 
