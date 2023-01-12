@@ -63,7 +63,9 @@ everything else is a 100% match to the code presented in the tutorial (+ helpful
 
 <h3>relationalDB_complete_project_WINDOWS</h3>
 
-this directory contains the updated application (January, 2023), designed with a relational database rather than the database that was shown in the YouTube tutorial.
+this directory contains the updated application (January, 2023)
+<br>
+designed with a relational database rather than the database that was shown in the YouTube tutorial.
 <br>
 recipes.db now contains 2 tables:
 
