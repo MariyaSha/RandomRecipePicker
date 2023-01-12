@@ -63,3 +63,19 @@ everything else is a 100% match to the code presented in the tutorial (+ helpful
 <br>
 <br>
 ![app](https://user-images.githubusercontent.com/32107652/173865003-09df9a23-6c5e-44f5-9a9e-9b95b93a237c.png)
+<br>
+<br>
+<b>relationalDB_complete_project_WINDOWS</b>
+<br>
+<br>
+this directory contains the updated application (January, 2023), designed with a relational database rather than the database that was shown in the YouTube tutorial.
+<br>
+recipes.db now contains 2 tables:
+
+- recipes (includes a primary_key column)
+- ingredients (foreign key: recipe_key)
+
+as a result, 2 functions were slightly modified:
+
+- fetch_db()
+- pre_process(recipe_name, table_records)
