@@ -31,8 +31,10 @@ find out how you can webscrape your own database with those libraries
 <br>
 by following this tutorial of mine: https://youtu.be/MkGQmZoMuRM
 <br>
-<h2>Project Files</h2>
-<b>starter_files</b>
+<h2>Project Directories</h2>
+the following directories require a detailed overview:
+
+<h3>starter_files</h3>
 <br>
 <br>
 this directory contains the starter files required to follow my YouTube tutorial.
@@ -43,9 +45,7 @@ this directory contains the starter files required to follow my YouTube tutorial
 - 1 .png wireframe inside the root folder.
 - 1 .py file inside the root folder containing the most basic commands to run a Tkinter window.
 
-<b>complete_project_WINDOWS</b>
-<br>
-<br>
+<h3>complete_project_WINDOWS</h3>
 this directory contains the complete application, created by following the YouTube tutorial.
 <br>
 as this app uses custom fonts, it's suitable for Windows users only.
@@ -60,12 +60,8 @@ in addition to all the files specified in starter_files, this directory contains
 <b>please note!</b> I've added some horizontal padding with <b>padx=25</b> both for the title and ingredients.
 <br>
 everything else is a 100% match to the code presented in the tutorial (+ helpful comments)
-<br>
-<br>
-![app](https://user-images.githubusercontent.com/32107652/173865003-09df9a23-6c5e-44f5-9a9e-9b95b93a237c.png)
-<br>
-<br>
-<b>relationalDB_complete_project_WINDOWS</b>
+
+<h3>relationalDB_complete_project_WINDOWS</h3>
 <br>
 <br>
 this directory contains the updated application (January, 2023), designed with a relational database rather than the database that was shown in the YouTube tutorial.
@@ -79,3 +75,7 @@ as a result, 2 functions were slightly modified:
 
 - fetch_db()
 - pre_process(recipe_name, table_records)
+<br>
+<br>
+![app](https://user-images.githubusercontent.com/32107652/173865003-09df9a23-6c5e-44f5-9a9e-9b95b93a237c.png)
+
