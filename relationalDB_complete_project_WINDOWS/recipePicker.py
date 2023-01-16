@@ -18,7 +18,7 @@ def clear_widgets(frame):
 
 def fetch_db():
 	# connect an sqlite database
-	connection = sqlite3.connect("recipes.db")
+	connection = sqlite3.connect("data/recipes.db")
 	cursor = connection.cursor()
 
 	# fetch all the table names
